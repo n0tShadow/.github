@@ -36,12 +36,10 @@ Here are some of our active and planned projects:
 
 - **HackUnix** - the white-hacking software.
 - **Shadow Open License (SOL)** - Open-source license.
+- **DevNet** - The ultimate developer network.
 - ...more in future!
 
-## 🤖 Join Us
-
-We’re always open to collaborators, testers, idea-makers, and curious minds.  
-Whether you're a coder, artist, writer, or hacker — if you're driven by curiosity and style, you belong here.
+## 🤖 Contact Us
 
 📬 Contact us or open an issue to talk.
 
